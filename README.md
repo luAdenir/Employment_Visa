@@ -7,3 +7,9 @@ A permanent labor certification issued by the Department of Labor (DOL) allows a
 The dataset to be use in this study is us_perm_visas.csv from [Kaggle](https://www.kaggle.com/jboysen/us-perm-visas). This data was collected and distributed by the [US Department of Labor](https://www.dol.gov/agencies/eta/foreign-labor/programs/permanent). 
 
 
+
+
+Google Slide Link:
+[Second Segment](https://docs.google.com/presentation/d/1Z1C_EhpD8gS8iwni5HqNlYQYjw_V2ndjph1U1KrMhdA/edit?usp=sharing)
+
+
