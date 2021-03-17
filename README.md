@@ -12,5 +12,3 @@ The dataset to be use in this study is us_perm_visas.csv from [Kaggle](https://w
 Google Slide Link:
 
 [Second Segment](https://docs.google.com/presentation/d/1Z1C_EhpD8gS8iwni5HqNlYQYjw_V2ndjph1U1KrMhdA/edit?usp=sharing)
-
-
