@@ -98,3 +98,5 @@ Google Slide Link:
 [Second Segment](https://docs.google.com/presentation/d/1Z1C_EhpD8gS8iwni5HqNlYQYjw_V2ndjph1U1KrMhdA/edit?usp=sharing)
 
 [Third Segment](https://docs.google.com/presentation/d/1U-wAsYPrnfzQV3xdSnGeBvhxa9SUavEQ4HA1Ft3FI-0/edit?usp=sharing)
+
+[Fourth Segment] (https://docs.google.com/presentation/d/1M1UMrOjL8y8q1rCrKMRgkdvbjbyK5F4XzHRutMqfaqs/edit?usp=sharing)
