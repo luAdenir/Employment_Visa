@@ -99,4 +99,4 @@ Google Slide Link:
 
 [Third Segment](https://docs.google.com/presentation/d/1U-wAsYPrnfzQV3xdSnGeBvhxa9SUavEQ4HA1Ft3FI-0/edit?usp=sharing)
 
-[Fourth Segment] (https://docs.google.com/presentation/d/1M1UMrOjL8y8q1rCrKMRgkdvbjbyK5F4XzHRutMqfaqs/edit?usp=sharing)
+[Fourth Segment](https://docs.google.com/presentation/d/1M1UMrOjL8y8q1rCrKMRgkdvbjbyK5F4XzHRutMqfaqs/edit?usp=sharing)
